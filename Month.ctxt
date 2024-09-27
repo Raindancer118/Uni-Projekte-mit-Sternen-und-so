@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Month
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Month.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=m
+comment1.target=Month(int)
+comment2.params=
+comment2.target=boolean\ isRMonth()
+numComments=3

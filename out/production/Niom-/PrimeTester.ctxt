@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PrimeTester
+comment1.params=n
+comment1.target=void\ divisors(int)
+comment2.params=n
+comment2.target=void\ properDivisors(int)
+comment3.params=n
+comment3.target=boolean\ isPrime(int)
+numComments=4

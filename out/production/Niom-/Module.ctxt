@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Module
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Module.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=_code\ _name
+comment1.target=Module(java.lang.String,\ java.lang.String)
+comment2.params=_name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getCode()
+comment5.params=_contacthours
+comment5.target=void\ setContactHours(int)
+comment6.params=
+comment6.target=int\ getContactHours()
+numComments=7

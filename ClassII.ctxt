@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ClassII
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ ClassII.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=ClassII()
+comment2.params=n
+comment2.target=boolean[]\ sieve(int)
+numComments=3

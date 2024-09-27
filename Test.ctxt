@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Test.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=Test()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Test\r\n
+comment2.params=
+comment2.target=void\ vielfacheVon3()
+comment2.text=\r\n\ Ein\ Beispiel\ einer\ Methode\ -\ ersetzen\ Sie\ diesen\ Kommentar\ mit\ Ihrem\ eigenen\r\n\ \r\n\ @param\ \ y\ \ \ \ ein\ Beispielparameter\ f\u00FCr\ eine\ Methode\r\n\ @return\ \ \ \ \ \ \ \ die\ Summe\ aus\ x\ und\ y\r\n
+comment3.params=n
+comment3.target=int\ crossTotal(int)
+comment4.params=n
+comment4.target=int\ repeatedCrossTotal(int)
+comment5.params=digits
+comment5.target=int\ luhn(int[])
+numComments=6

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=EquilateralTriangle
+comment1.params=sideLength
+comment1.target=EquilateralTriangle(int)
+numComments=2
